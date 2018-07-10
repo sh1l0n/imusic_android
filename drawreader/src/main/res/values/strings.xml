@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawReader</string>
+    <string name="generate_pdf">Generating pdf. Wait a moment please</string>
+</resources>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">IStaff</string>
+
+    <string name="preference_file_key">AutorPref</string>
+    <string name="preference_init">Initializate</string>
+    <string name="preference_autor">Author</string>
+
+    <string name="tab1">Songs</string>
+    <string name="tab2">Favorites</string>
+
+    <string name="action_edit">Edit</string>
+    <string name="action_autor">Change author</string>
+    <string name="action_about_title">About</string>
+    <string name="action_about_message">Music app 2016</string>
+    <string name="action_about">About</string>
+    <string name="action_erase">Erase</string>
+    <string name="action_pdf">To PDF</string>
+    <string name="action_fav">Favorite</string>
+    <string name="action_add_fav">Add to favorites</string>
+    <string name="action_rm_fav">Remove from favorites</string>
+    <string name="action_cancel">Deselect draws</string>
+
+    <string name="delete">Delete</string>
+    <string name="sure_delete">The song</string>
+    <string name="sure_delete_one">will be deleted. Do you want to procced?</string>
+    <string name="sure_delete_mult">You are about to delete multiple songs. Continue?</string>
+    <string name="sure_delete_fav">will be deleted from favorites. Do you want to procced?</string>
+    <string name="sure_delete_mult_fav">You are about to delete multiple favorites songs. Continue?</string>
+
+    <string name="create_dialog_accept">Accept</string>
+    <string name="create_dialog_decline">Cancel</string>
+    <string name="no_empty_name">You must specify a name</string>
+
+    <string name="action_save">Update Changes</string>
+    <string name="action_next">Next</string>
+    <string name="action_back">Back</string>
+    <string name="no_draws">No data to convert</string>
+
+    <string name="title_new_song">Create new song</string>
+    <string name="intro_new_song">Fill camps:</string>
+    <string name="default_name">Name</string>
+    <string name="select_clef">Select clef:</string>
+    <string name="select_time">Select time:</string>
+
+    <string name="title_edit_song">Edit song</string>
+
+    <string name="title_add_notes">Copying notes to database. Wait a moment please.</string>
+    <string name="wait_a_moment">Wait a moment please</string>
+    <string name="alert_exit_staff">If you exit the current data will be lost. Do yo want to continue?</string>
+
+    <string name="delete_select">Delete selected items</string>
+    <string name="delete_select_message">Do you want to destroy all items selected?</string>
+
+    <string name="deselect_items">Deselect items</string>
+    <string name="deselect_items_message">Do you want to deselected all items selecteds?</string>
+
+    <string name="title_change_name">Change name</string>
+    <string name="intro_change_name">Introduce a name:</string>
+
+    <string name="empty_list">For create a new song you must be press\n the button of your right.</string>
+    <string name="empty_favs">No favorites song</string>
+    <string name="change_autor_title">Author name</string>
+    <string name="change_autor_intro">Introduce a name:</string>
+
+</resources>

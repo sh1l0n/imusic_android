@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item android:id="@+id/action_edit"
+        android:title="@string/action_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_pdf"
+        android:title="@string/action_pdf"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_fav"
+        android:title="@string/action_fav"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item android:id="@+id/action_back"
+        android:title="@string/action_back"
+        android:icon="@android:drawable/ic_media_previous"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_sync"
+        android:title="@string/action_save"
+        android:icon="@drawable/ic_sync_white_24dp"
+        app:showAsAction="always" />
+</menu>
